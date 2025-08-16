@@ -31,6 +31,6 @@ What does GPU stand for? graphics processing unit
 Correct!
 What does RAM stand for? random access memory
 Correct!
-What does PSU stand for? PSU
+What does PSU stand for? Power central unit
 Incorrect!
 You got 2 points in the game!
